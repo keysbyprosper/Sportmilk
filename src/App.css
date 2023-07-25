@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+
+}
+nav{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 7vh;
+  box-shadow: 1px 1px 8px -1px rgba(26,27,28,.1);
+  align-items: center;
+}
+
+.nav-items{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 50vh;
+  padding-right: 10vh;
+}
+
+.sportmilk{
+  padding-left: 17vh;
+}
+
+
+.feed-body{
+  height: 92.9vh;
+  display: flex;
+  flex-direction: row;
+}
+
+.feed-right{
+  width: 60vw;
+  display: flex;
+}
+
+.feed-left{
+  display: flex;
+  width: 50vw;
+  justify-content: center;
+
+}
+
+.right-content{
+  width: 45vw;
+  overflow: scroll;
+
+  
+}
+
+
+.left-content{
+  width: 30vw;
+  padding-top: 15vh;
+}
+
+form{
+  display: flex;
+}
+
+
+
+.Card-main{
+  height: 18vh;
+  padding-bottom: 5vh;
+}
+
+.news{
+  height: 60vh;
+ 
+}
+
+
+
+.about-content{
+  display: flex;
+
+}
+
+
+.description{
+  font-family: 'Lora';
+}
+
+.navvy{
+  font-family: 'Lora';
+  text-decoration: none;
+  color: black;
+}
+
+.navvy:hover{
+  text-decoration: underline;
+}
+.title:hover{
+  text-decoration: underline !important;
+}

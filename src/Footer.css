@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+.Footer{
+  height: 4vh;
+  background-color: #1a1b1c;
+  font-family: 'Lora';
+  display: flex;
+  justify-content: center;
+  align-items: center ;
+ 
+}
+

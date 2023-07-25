@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:wght@500&display=swap');
+
+
+
+
+
+.para{
+  font-size: 2.1vh;
+  line-height: 1.8em;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.about-content-content{
+  font-family: 'Lora', serif;
+}
